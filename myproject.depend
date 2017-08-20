@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496670367 source:/home/ganesh/Desktop/CG pro/myproject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glut.h>
+	<stdlib.h>
+
